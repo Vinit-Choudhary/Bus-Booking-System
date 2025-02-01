@@ -55,9 +55,6 @@ The project uses **SQLite** for storing data with the following tables:
 ## Screenshots
 
 
-## License
-This project is licensed under the MIT License.
-
 ## Contributors
 - **Vinit Choudhary**
 - **Vikram Pratap Singh**

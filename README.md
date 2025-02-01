@@ -27,7 +27,7 @@ pip install pillow
 ### Running the Application
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Bus-Booking-System.git
+   git clone https://github.com/Vinit-Choudhary/Bus-Booking-System.git
    ```
 2. Navigate to the project directory:
    ```bash
